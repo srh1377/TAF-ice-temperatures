@@ -1,4 +1,4 @@
 # TAF-ice-temperatures
 Retrieve and plot ice temperature from Troll Airfield
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srh1377/TAF-ice-temperatures/HEAD)
+Jupyter notebook illustrating downloading and processing data
+Downloading the full 2018-2023 dataset takes 20 minutes or so, and plotting is also slow before resampling
